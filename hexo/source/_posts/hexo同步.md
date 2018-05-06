@@ -17,9 +17,9 @@ tags:
 A把本地的项目上传到github。<br>
 >git init #git初始化 
 >git remote add origin https://github.com/用户名/你的GitHub用户名.github.io.git #添加仓库地址 
->git checkout -b hexo #新建分支并切换到新建的分支 
->git add . #添加所有本地文件到git 
->git commit -m "这里填写你本次提交的备注，内容随意" #git提交 
+git checkout -b hexo #新建分支并切换到新建的分支 
+git add . #添加所有本地文件到git 
+git commit -m "这里填写你本次提交的备注，内容随意" #git提交 
 >git push origin 分支名 #文件推送到hexo分支
 <br>
 <p><b>下载</b></p>
